@@ -1,0 +1,27 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(òã€¦8ô®ûí†2J$c0a2b402-6f9d-4d63-b8cb-910b6a1af79c
+¦
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(øôÔ×ûÿÿÿÿ8ô®ûí†2J$58eae860-94df-4a1e-a4d6-2d06713a0508
+l
+java:S2140")Use "java.util.Random.nextInt()" instead.(Ë€„ò8ô®ûí†2J$4fbd4c7f-d7fd-433a-8f73-da6aaffaf275
+r	java:S106"+Replace this use of System.out by a logger.(ú©Ô™şÿÿÿÿ8ô®ûí†2J$37d12d15-7db6-4156-b2e1-e1c5a726a4e3
+r	java:S106"+Replace this use of System.out by a logger.(¶Ó¿Óûÿÿÿÿ8õ®ûí†2J$10b16f01-4714-4162-9b3e-4f97405a038b
+r	java:S106"+Replace this use of System.out by a logger.(ùü íıÿÿÿÿ8õ®ûí†2J$eedb6f89-412b-4934-9383-d3eb37f2890e
+•
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘8õ®ûí†2J$a1bc3faa-ae36-40ea-a6b8-ea6f5057ffa2
+¦
+java:S2142,"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(øôÔ×ûÿÿÿÿ8ö®ûí†2J$a0a24ff1-847b-4e9e-b327-54e6cd398e52
+r	java:S106-"+Replace this use of System.out by a logger.(¬¦¥Òùÿÿÿÿ8÷®ûí†2J$6197e54c-5a93-4cdd-84db-9ee97efeac16
+†
+java:S11550">Use isEmpty() to check whether the collection is empty or not.(Ùá¹˜ùÿÿÿÿ8ö®ûí†2J$cf6e5225-6084-40aa-ace5-2fffd91659bd
+¦
+java:S21429"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(øôÔ×ûÿÿÿÿ8÷®ûí†2J$6e160a31-8bb3-4cb2-9c2a-f9cfaf7962d5
+m	java:S1068"+Replace this use of System.out by a logger.(Øı„¢8÷®ûí†2J$c4039e76-fad3-4a81-8d5e-7cacea941c08
+r	java:S106:"+Replace this use of System.out by a logger.(­åûøÿÿÿÿ8÷®ûí†2J$8a335692-d465-4506-b81a-3872b2333c02
+r	java:S106<"+Replace this use of System.out by a logger.(‚ÓÙ°ùÿÿÿÿ8÷®ûí†2J$064460f7-08f9-4301-9d08-0430c779d636
+r	java:S106>"+Replace this use of System.out by a logger.(ÃŒø…üÿÿÿÿ8ø®ûí†2J$bcc3947a-8377-4cc3-bb66-00c61365ed98
+¦
+java:S2142H"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(øôÔ×ûÿÿÿÿ8÷®ûí†2J$7eb519e1-4940-4746-b9c1-52f18f928f29
+~	java:S125D"<This block of commented-out lines of code should be removed.(ïÎ€ã8÷®ûí†2J$f27d5fc8-24fb-4d28-83f0-bfce571fd957
+r	java:S106I"+Replace this use of System.out by a logger.(¬¦¥Òùÿÿÿÿ8ø®ûí†2J$a65b4f13-f196-4c94-b92e-a3f582bf66ab
+r	java:S106M"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿ8Şëûí†2J$dfcb3ee6-c94e-429c-bf0f-b63535e3ac2d
